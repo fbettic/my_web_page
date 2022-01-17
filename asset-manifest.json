@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a21166af.css",
-    "main.js": "/portfolio/static/js/main.a1e26e8d.js",
+    "main.css": "/portfolio/static/css/main.24600219.css",
+    "main.js": "/portfolio/static/js/main.cb3be233.js",
+    "static/media/Currículum.pdf": "/portfolio/static/media/Currículum.ec65d465f14c8e9dd56f.pdf",
     "static/media/drum-machine.png": "/portfolio/static/media/drum-machine.392fb04baaac0501d46b.png",
     "static/media/clock-25-5.png": "/portfolio/static/media/clock-25-5.7480d1c29bbe3bdd2764.png",
     "static/media/calculator.png": "/portfolio/static/media/calculator.334ab547161432db11e9.png",
     "static/media/logo-red.svg": "/portfolio/static/media/logo-red.ea8b49dd4e4834f08beed599cccd2323.svg",
     "index.html": "/portfolio/index.html",
-    "main.a21166af.css.map": "/portfolio/static/css/main.a21166af.css.map",
-    "main.a1e26e8d.js.map": "/portfolio/static/js/main.a1e26e8d.js.map"
+    "main.24600219.css.map": "/portfolio/static/css/main.24600219.css.map",
+    "main.cb3be233.js.map": "/portfolio/static/js/main.cb3be233.js.map"
   },
   "entrypoints": [
-    "static/css/main.a21166af.css",
-    "static/js/main.a1e26e8d.js"
+    "static/css/main.24600219.css",
+    "static/js/main.cb3be233.js"
   ]
 }
